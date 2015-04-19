@@ -110,3 +110,4 @@ CONTACT
 =======
 
 To contact the Korat team, see http://mir.cs.uiuc.edu/korat.
+-vandana
